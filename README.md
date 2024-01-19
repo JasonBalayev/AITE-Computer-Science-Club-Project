@@ -1,0 +1,1 @@
+The AITE CS Club 2022-2023 presented this project at AITE's Annual Open House. With a purpose of demonstrating essential Computer Science and team-building principles to future AITE students we programmed Binary Fission, a cellular automata game wherein which you as the player have to avoid enemy entities and survive.
