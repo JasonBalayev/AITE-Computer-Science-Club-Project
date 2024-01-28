@@ -20,7 +20,7 @@ class StartScreen:
         self.run_button_x = (self.screen_length / 2) - (1.25*self.run_button_length)
         self.run_button_y = (self.screen_height / 2) - (self.run_button_height)
 
-        self.start_button_img = pygame.image.load("assets/ui_img_start_button.png").convert_alpha()
+        self.start_button_img = pygame.image.load("assets/ui_img/start_button.png").convert_alpha()
         self.button = Button(self.run_button_x, self.run_button_y, self.start_button_img, 1)
 
         video = cv2.VideoCapture("assets/vids/game_logo.mov")
